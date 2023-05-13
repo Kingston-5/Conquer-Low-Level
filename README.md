@@ -1,11 +1,11 @@
 # Conquer Low Level
 
-A series of programs written in multiple low-level to high-level languages:
+A series of programs written in multiple low- to high-level languages to demonstrate the differences in these levels. The series of programs can showcase how different languages handle data types, memory management, and control structures.
+
+These scripts will be writted in:
 - x86 nasm assembly 
 - C
 - Python
-
-Each program is written in each of these languages all for demonstation purposes.
 
 ## why?
 - Because why not?
